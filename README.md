@@ -20,3 +20,7 @@
 
 ## Management
 - [WP ERP](https://wordpress.org/plugins/erp/)
+
+
+## Widget
+- [Conditional Widgets](https://wordpress.org/plugins/conditional-widgets/)
