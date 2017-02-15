@@ -24,3 +24,4 @@
 
 ## Widget
 - [Conditional Widgets](https://wordpress.org/plugins/conditional-widgets/)
+- [Widget Logic](https://wordpress.org/plugins/widget-logic/)
