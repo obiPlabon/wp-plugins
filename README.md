@@ -27,5 +27,12 @@
 - [Widget Logic](https://wordpress.org/plugins/widget-logic/)
 
 
-## Metabox/Theme Option
+## Metabox
 - [Carbon Fields](https://wordpress.org/plugins/carbon-fields/)
+
+
+## Settings
+- [Carbon Fields](https://wordpress.org/plugins/carbon-fields/)
+
+
+## Customizer
