@@ -36,3 +36,7 @@
 
 
 ## Customizer
+
+## Development
+- [Kint PHP Debugger](https://wordpress.org/plugins/kint-php-debugger/)
+- [Up Dev Tools](https://github.com/KnowTheCode/UpDevTools)
