@@ -43,3 +43,15 @@
 - [Up Dev Tools](https://github.com/KnowTheCode/UpDevTools)
 - [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/)
 
+
+## Framework
+- [Include WP](https://includewp.com/)
+- ++++++++++++
+- [Themosis](http://framework.themosis.com/)
+- [PikList](https://piklist.com/)
+- [HerBert](http://getherbert.com/)
+- [WP MVC](http://wpmvc.org/)
+- [WP Fuel](http://wordpressfuel.pluginpunch.com/)
+- [Nouveau Framework](https://nouveauframework.org/)
+- [Largo](https://largo.inn.org/)
+- [Gantry](http://gantry.org/)
