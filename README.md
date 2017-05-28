@@ -48,6 +48,7 @@
 - [Include WP](https://includewp.com/)
 - ++++++++++++
 - [Themosis](http://framework.themosis.com/)
+- [Assely](https://assely.org/)
 - [PikList](https://piklist.com/)
 - [HerBert](http://getherbert.com/)
 - [WP MVC](http://wpmvc.org/)
